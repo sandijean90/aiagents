@@ -1,2 +1,2 @@
 # aiagents
-example notebooks fro AI agents
+example notebooks for AI agents
